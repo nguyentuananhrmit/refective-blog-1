@@ -8,19 +8,11 @@ layout: page
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
-## Features
+## Content
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+I took the class with the topic is welcome to the SSE&T class, which gave me much important information regarding my studies and future work. First, Dr. Jonathan Crellin introduced me to engineering-related subjects at RMIT. In particular, IT and software engineering are two fields that we find very difficult to distinguish because they have many similar features and functions, so the teacher spends much time explaining and giving me information about those two areas. After receiving that information, I realize that although these two industries have many similar elements, the core nature is entirely different. IT focuses on improving and upgrading existing software to make them more modern and convenient. On the other hand, software engineering will be concerned with the production, creation, and development of entirely new software or from the essential software. Next, the lecture deals with the issue of doing an internship before receiving an official university degree. The teacher gave us names of tech companies that we might be interning. It helps me to have a clear direction about the company I want to work for in the future. In addition, it also creates motivation and confidence for me to work hard and continue to improve myself and absorb new knowledge at RMIT. Third, the teacher introduced me to the subjects available in the IT field. He also gave me background information about the subjects we would take in my first year and the number of credits I have to complete in a course. Especially at RMIT, students must complete introductory courses to be eligible for advanced courses. This information will help me better understand what I will be learning in my first year and be able to plan my studies soon. Finally, Dr. Jonathan Crellin reminds us of the school's management regulations in students' learning process. Plagiarism is one of the acts the university will severely punish, and he also gave me examples of plagiarism. Students who make such mistakes may fail the course or be expelled. They are one of those valuable pieces of information that I must always keep in mind because if I get it wrong, it can directly affect my learning. At the same time, I can also find a solution to prevent plagiarism from that information.
 
+ 
 ## Based on
 
 - [Hyde](https://github.com/poole/hyde)
