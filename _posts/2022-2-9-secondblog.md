@@ -1,5 +1,5 @@
 ---
-title:  "First Blog"
+title:  "Second Blog"
 mathjax: true
 layout: post
 categories: media
